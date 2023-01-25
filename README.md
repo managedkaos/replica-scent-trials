@@ -15,6 +15,7 @@ Testing out scents from _Replica; Reproduction of familiar scents and moments of
 ||Jazz Club||||
 
 ## References
-- [Emojis](https://gist.github.com/rxaviers/7360908)
+- [Emoji list](https://gist.github.com/rxaviers/7360908)
+- [Emoji shortcode selector](https://github-emoji-picker.vercel.app/)
 - [Github Markdown](https://gist.github.com/nikhilnayyar002/7a35e653d3d590e317c829243e73b110)
 
